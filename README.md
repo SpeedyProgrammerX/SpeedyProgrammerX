@@ -29,17 +29,17 @@ I believe in the power of collaboration and open-source projects, which is why I
 
 ## 🌟 Featured Projects
 
-### [Learning to See]
+### Learning to See
 **Description:** In this project, I have provided a solution for self driving cars where I developed a model that will predict steering angle based on the road.  
 **Tech Stack:** Python, Tensorflow  
 [[Link to the repository](https://github.com/SpeedyProgrammerX/learning_to_see)]
 
-### [MeiBot-v1]
+### MeiBot-v1
 **Description:** A very primitive version of a chat bot that understands a little english grammar and uses symbolic programming to respond to its user.  
 **Tech Stack:** Prolog
 [[Link to the repository](https://github.com/SpeedyProgrammerX/MeiBot-v1)]
 
-### [Sunflower]
+### Sunflower
 **Description:** This is a forked repository from the Android community which goes over the best practices for migrating a view based app to Jetpack Compose.  
 **Tech Stack:** Java, Kotlin, XML
 [[Link to the repository](https://github.com/SpeedyProgrammerX/sunflower)]
@@ -59,6 +59,6 @@ I believe in the power of collaboration and open-source projects, which is why I
 ## 📫 Let's Connect!
 
 - **Email:** ddesai14@uncc.edu
-- **LinkedIn:** (https://www.linkedin.com/in/devanshd/)
+- **LinkedIn:** https://www.linkedin.com/in/devanshd/
 
 Feel free to explore my repositories, open issues, or contribute to ongoing projects. Let's build something amazing together!
