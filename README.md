@@ -1,48 +1,106 @@
-# Welcome to My GitHub! 👋
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Devansh Desai — software engineer, educator, and builder" />
 
-Hi there! I'm Devansh Desai, a passionate educator and software developer dedicated to fostering innovation and growth in the tech community. As an instructor / engineer, I have the privilege of guiding students through the complexities of software development, helping them transform their ideas into reality.
+  <br />
 
-## 👨‍🏫 About Me
+  <a href="https://www.linkedin.com/in/devanshd/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Devansh on LinkedIn" />
+  </a>
+  <a href="mailto:ddesai14@uncc.edu">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Devansh" />
+  </a>
+  <a href="https://github.com/SpeedyProgrammerX?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Devansh's repositories" />
+  </a>
+</div>
 
-- **Profession:** Software Engineer at Lowe's
-- **Course:** Intro to Java, Intro to Cloud Computing for Data Analytics, Machine Learning, Applied Machine Learning, Software Development Projects
-- **Interests:** Software Engineering, Open Source, EdTech, LLM, Mobile Development
-- **Languages:** Kotlin, Python, Java, JavaScript, C++, SQL
+## Hello, I'm Devansh 👋
 
-I believe in the power of collaboration and open-source projects, which is why I actively contribute to and maintain several repositories here on GitHub. My work focuses on creating robust, scalable software solutions and providing resources to help students and developers alike excel in their coding journeys.
+I'm a **software engineer at Lowe's** and an **educator** who enjoys turning complex ideas into practical, approachable software. My work sits at the intersection of engineering, open source, AI, mobile development, and education.
 
-## 🌟 Featured Projects
+I teach and develop coursework in Java, cloud computing for data analytics, machine learning, applied machine learning, and software development projects. Whether I'm building an application or guiding a classroom, I care about thoughtful architecture, useful experiences, and helping people grow.
 
-### Learning to See
-**Description:** In this project, I have provided a solution for self driving cars where I developed a model that will predict steering angle based on the road.  
-**Tech Stack:** Python, Tensorflow  
-[[Link to the repository](https://github.com/SpeedyProgrammerX/learning_to_see)]
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💡 What drives me</h3>
+      <ul>
+        <li>Building robust, scalable software</li>
+        <li>Making technical concepts easier to learn</li>
+        <li>Exploring practical uses for AI and LLMs</li>
+        <li>Creating polished mobile experiences</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Current focus</h3>
+      <ul>
+        <li>Improving software project curricula</li>
+        <li>Building tools for student learning</li>
+        <li>Keeping current with Android architecture</li>
+        <li>Contributing to education-focused open source</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### MeiBot-v1
-**Description:** A very primitive version of a chat bot that understands a little english grammar and uses symbolic programming to respond to its user.  
-**Tech Stack:** Prolog
-[[Link to the repository](https://github.com/SpeedyProgrammerX/MeiBot-v1)]
+## Toolbox
 
-### Sunflower
-**Description:** This is a forked repository from the Android community which goes over the best practices for migrating a view based app to Jetpack Compose.  
-**Tech Stack:** Java, Kotlin, XML
-[[Link to the repository](https://github.com/SpeedyProgrammerX/sunflower)]
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,java,js,cpp,mysql,androidstudio,tensorflow,gcp,git&perline=10" alt="Kotlin, Python, Java, JavaScript, C++, SQL, Android Studio, TensorFlow, Google Cloud, and Git" />
+</div>
 
-## 📚 What I'm Currently Working On
+## Featured work
 
-- Enhancing the curriculum for my 'Software Development Projects' course.
-- Building tools to streamline the learning experience for my students.
-- Actively updating myself with the Android architecture and framework. 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚘 Learning to See</h3>
+      <p>A computer-vision project that predicts a vehicle's steering angle from images of the road.</p>
+      <p><strong>Python · TensorFlow</strong></p>
+      <a href="https://github.com/SpeedyProgrammerX/learning_to_see">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 MeiBot v1</h3>
+      <p>An early chatbot experiment that uses symbolic programming and basic English grammar to respond to users.</p>
+      <p><strong>Prolog</strong></p>
+      <a href="https://github.com/SpeedyProgrammerX/MeiBot-v1">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌻 Sunflower</h3>
+      <p>An exploration of Android best practices for migrating a view-based application to Jetpack Compose.</p>
+      <p><strong>Java · Kotlin · XML</strong></p>
+      <a href="https://github.com/SpeedyProgrammerX/sunflower">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud Computing</h3>
+      <p>A teaching repository for exploring cloud-computing concepts and hands-on experimentation.</p>
+      <p><strong>Cloud · Education</strong></p>
+      <a href="https://github.com/SpeedyProgrammerX/cloud-computing">View project →</a>
+    </td>
+  </tr>
+</table>
 
-## 🎯 Goals
+## GitHub at a glance
 
-- Contribute more to open-source projects, particularly those that align with my passion for education and software development.
-- Mentor aspiring developers and help them navigate the early stages of their careers.
-- Continue to evolve as an educator and developer by learning and applying the latest technologies.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SpeedyProgrammerX&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SpeedyProgrammerX&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpeedyProgrammerX&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Devansh's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SpeedyProgrammerX&hide_border=true&theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SpeedyProgrammerX&hide_border=true" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SpeedyProgrammerX&hide_border=true" alt="Devansh's GitHub contribution streak" />
+  </picture>
+</div>
 
-## 📫 Let's Connect!
+---
 
-- **Email:** ddesai14@uncc.edu
-- **LinkedIn:** https://www.linkedin.com/in/devanshd/
-
-Feel free to explore my repositories, open issues, or contribute to ongoing projects. Let's build something amazing together!
+<div align="center">
+  <strong>Let's build something useful, teach something meaningful, and keep learning.</strong>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=SpeedyProgrammerX&style=flat-square&color=5b8def&label=Profile+views" alt="Profile view counter" />
+</div>
